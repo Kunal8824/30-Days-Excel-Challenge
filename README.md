@@ -1,23 +1,34 @@
-# Day 1 — Excel Fundamentals 📊
+# 📊 30 Days of Excel
 
-**Date:** September 23, 2026
+A 30-day hands-on challenge to strengthen my Excel skills through daily practice and practical exercises.
 
-Day 1 focused on getting familiar with the Excel environment and building a foundation for further practice.
+I’ll be documenting my learning journey by adding the Excel files and exercises I complete each day.
 
-## What I Learned & Practiced
+## 🎯 Goals
 
-* Navigating the Excel interface
-* Creating and working with workbooks and worksheets
-* Entering and editing data
-* Saving and organising Excel files
-* Using the **Percentage Formula** for basic calculations
+* Build strong Excel fundamentals
+* Practice formulas and functions
+* Improve data handling and analysis skills
+* Develop consistency through daily practice
+* Create a portfolio of practical Excel work
 
-## Practice
+## 📅 Progress
 
-Created a basic Excel worksheet to apply the concepts learned and practice percentage calculations.
+| Day    | Topics Covered                                                                                                  | Status      |
+| ------ | --------------------------------------------------------------------------------------------------------------- | ----------- |
+| Day 1  | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula | ✅ Completed |
+| Day 2  | Coming soon                                                                                                     | ⏳           |
+| Day 3  | Coming soon                                                                                                     | ⏳           |
+| ...    | ...                                                                                                             | ...         |
+| Day 30 | Coming soon                                                                                                     | ⏳           |
 
-## Key Takeaway
 
-Built a better understanding of Excel's interface, basic data entry, file organisation, and simple formula usage.
+## 🔗 Progress Updates
 
-**Status:** ✅ Completed
+I’m also sharing my daily progress on LinkedIn throughout this 30-day challenge.
+
+---- 
+
+**Started:** September 23, 2026
+**Duration:** 30 Days
+**Focus:** Excel • Data Skills • Consistent Practice
