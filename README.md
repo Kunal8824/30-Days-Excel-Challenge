@@ -14,14 +14,13 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 
 ## 📅 Progress
 
-| Day    | Topics Covered                                                                                                  | Status      |
-| ------ | --------------------------------------------------------------------------------------------------------------- | ----------- |
-| Day 1  | Excel interface, navigation, workbooks, worksheets, Data entry & editing, File organisation, Percentage Formula | ✅ Completed |
-| Day 2  | Number & Date Fo0rmats, Cell styles & themes, Converting ranges to tables, Formatting for readability            | ✅ Completed |
-| Day 3  | Coming soon                                                                                                     | ⏳           |
-| ...    | ...                                                                                                             | ...         |
-| Day 30 | Coming soon                                                                                                     | ⏳           |
-
+| Day    | Topics Covered                                                                                                       | Status      |
+| ------ | -------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Day 1  | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula      | ✅ Completed |
+| Day 2  | Number & date formats, cell styles & themes, converting ranges to tables, formatting for readability                 | ✅ Completed |
+| Day 3  | SUM, AVERAGE, MAX, MIN, COUNT, relative & absolute cell references, Auto-Fill, formula logic & common formula errors | ✅ Completed |
+| ...    | ...                                                                                                                  | ...          |
+| Day 30 | Coming soon                                                                                                          | ⏳           |
 
 ## 🔗 Progress Updates
 
