@@ -19,8 +19,12 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 | Day 1  | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula      | ✅ Completed |
 | Day 2  | Number & date formats, cell styles & themes, converting ranges to tables, formatting for readability                 | ✅ Completed |
 | Day 3  | SUM, AVERAGE, MAX, MIN, COUNT, relative & absolute cell references, Auto-Fill, formula logic & common formula errors | ✅ Completed |
-| ...    | ...                                                                                                                  | ...          |
+| Day 4  | Single & multi-level sorting, AutoFilter, custom & advanced filters, filtering by colour & icon                      | ✅ Completed |
+| Day 5  | Column, bar, line & pie charts, choosing chart types, formatting axes & labels, presentation-ready charts            | ✅ Completed |
+| Day 6  | Coming soon                                                                                                          | ⏳           |
+| ...    | ...                                                                                                                  | ...         |
 | Day 30 | Coming soon                                                                                                          | ⏳           |
+
 
 ## 🔗 Progress Updates
 
