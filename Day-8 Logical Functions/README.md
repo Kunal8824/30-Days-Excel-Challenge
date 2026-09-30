@@ -2,7 +2,7 @@
 
 **Date:** September 30, 2026
 
-Day 8 focused on formatting data in Excel and learning how to make worksheets more organised, readable, and visually consistent.
+Day 8 focused on working with logical formulas in Excel to evaluate conditions, automate decision-making, and handle errors effectively.
 
 ## What I Learned & Practiced
 
