@@ -14,17 +14,23 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 
 ## 📅 Progress
 
-| Day    | Topics Covered                                                                                                       | Status      |
-| ------ | -------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Day 1  | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula      | ✅ Completed |
-| Day 2  | Number & date formats, cell styles & themes, converting ranges to tables, formatting for readability                 | ✅ Completed |
-| Day 3  | SUM, AVERAGE, MAX, MIN, COUNT, relative & absolute cell references, Auto-Fill, formula logic & common formula errors | ✅ Completed |
-| Day 4  | Single & multi-level sorting, AutoFilter, custom & advanced filters, filtering by colour & icon                      | ✅ Completed |
-| Day 5  | Column, bar, line & pie charts, choosing chart types, formatting axes & labels, presentation-ready charts            | ✅ Completed |
-| Day 6  | Coming soon                                                                                                          | ⏳           |
-| ...    | ...                                                                                                                  | ...         |
-| Day 30 | Coming soon                                                                                                          | ⏳           |
+## 📅 Progress
 
+| Day | Topics Covered | Status |
+| --- | --- | --- |
+| Day 1 | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula | ✅ Completed |
+| Day 2 | Number & date formats, cell styles & themes, converting ranges to tables, formatting for readability | ✅ Completed |
+| Day 3 | SUM, AVERAGE, MAX, MIN, COUNT, relative & absolute cell references, Auto-Fill, formula logic & common formula errors | ✅ Completed |
+| Day 4 | Single & multi-level sorting, AutoFilter, custom & advanced filters, filtering by colour & icon | ✅ Completed |
+| Day 5 | Column, bar, line & pie charts, choosing chart types, formatting axes & labels, presentation-ready charts | ✅ Completed |
+| Day 6 | Highlight Cell Rules, Data Bars, Colour Scales, Icon Sets for conditional formatting | ✅ Completed |
+| Day 7 | Coming soon | ⏳ |
+| Day 8 | IF function, Nested IF & IFS, AND / OR logic, IFERROR for error handling | ✅ Completed |
+| Day 9 | LEFT, RIGHT, MID, CONCATENATE, TEXTJOIN, TRIM, CLEAN, LEN, FIND, SUBSTITUTE for text cleaning & parsing | ✅ Completed |
+| Day 10 | SUMIFS, COUNTIFS, AVERAGEIFS with multiple criteria, combining conditions effectively | ✅ Completed |
+| Day 11 | First Pivot Table, dragging fields to rows/cols/values, Value Field Settings, grouping dates & numbers | ✅ Completed |
+| ... | ... | ... |
+| Day 30 | Coming soon | ⏳ |
 
 ## 🔗 Progress Updates
 
