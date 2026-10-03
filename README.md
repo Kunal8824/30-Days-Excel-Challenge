@@ -14,10 +14,6 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 
 ## 📅 Progress
 
-## 📅 Progress
-
-## 📅 Progress
-
 | Day | Topics Covered | Status |
 | --- | --- | --- |
 | Day 1 | Excel interface, navigation, workbooks, worksheets, data entry & editing, file organisation, Percentage Formula | ✅ Completed |
