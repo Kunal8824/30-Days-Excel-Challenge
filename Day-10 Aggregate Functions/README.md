@@ -2,7 +2,7 @@
 
 **Date:** October 2, 2026
 
-Day 11 focused on using multi-criteria math and statistical functions in Excel to summarise, count, and average data based on specific conditions.
+Day 10 focused on using multi-criteria math and statistical functions in Excel to summarise, count, and average data based on specific conditions.
 
 ## What I Learned & Practiced
 
