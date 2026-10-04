@@ -27,6 +27,7 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 | Day 9 | LEFT, RIGHT, MID, CONCATENATE, TEXTJOIN, TRIM, CLEAN, LEN, FIND, SUBSTITUTE for text cleaning & parsing | ✅ Completed |
 | Day 10 | SUMIFS, COUNTIFS, AVERAGEIFS with multiple criteria, combining conditions effectively | ✅ Completed |
 | Day 11 | First Pivot Table, dragging fields to rows/cols/values, Value Field Settings, grouping dates & numbers | ✅ Completed |
+| Day 12 | Calculated fields, Slicers for interactive filtering, Pivot Charts, refreshing dynamic data | ✅ Completed |
 | ... | ... | ... |
 | Day 30 | Coming soon | ⏳ |
 
