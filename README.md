@@ -12,6 +12,7 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 * Develop consistency through daily practice
 * Create a portfolio of practical Excel work
 
+
 ## 📅 Progress
 
 | Day | Topics Covered | Status |
@@ -30,8 +31,11 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 | Day 12 | Calculated fields, Slicers for interactive filtering, Pivot Charts, refreshing dynamic data | ✅ Completed |
 | Day 13 | Drop-down lists, input rules & restrictions, custom error alerts, dependent/cascading lists | ✅ Completed |
 | Day 14 | Combining functions & pivot tables, real-world dataset project, building analytical reports, data-driven findings | ✅ Completed |
+| Day 15 | Custom formula-based rules, highlighting entire rows, dynamic formatting, advanced pattern matching | ✅ Completed |
+| Day 16 | VLOOKUP syntax & logic, exact vs approximate match, HLOOKUP, troubleshooting lookup errors | ✅ Completed |
 | ... | ... | ... |
 | Day 30 | Coming soon | ⏳ |
+
 
 
 ## 🔗 Progress Updates
