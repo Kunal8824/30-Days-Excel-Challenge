@@ -35,6 +35,7 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 | Day 16 | VLOOKUP syntax & logic, exact vs approximate match, HLOOKUP, troubleshooting lookup errors | ✅ Completed |
 | Day 17 | INDEX & MATCH mechanics, left lookups, two-way matrix lookups, flexible lookup design | ✅ Completed |
 | Day 18 | XLOOKUP syntax & defaults, wildcard/approximate match, multi-column return, replacing legacy lookups | ✅ Completed |
+| Day 19 | Find & Replace for bulk fixes, Remove Duplicates, Text to Columns, Flash Fill pattern extraction | ✅ Completed |
 | ... | ... | ... |
 | Day 30 | Coming soon | ⏳ |
 
