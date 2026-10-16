@@ -38,6 +38,9 @@ I’ll be documenting my learning journey by adding the Excel files and exercise
 | Day 19 | Find & Replace for bulk fixes, Remove Duplicates, Text to Columns, Flash Fill pattern extraction | ✅ Completed |
 | Day 20 | Get & Transform data sources, Query Editor interface, Applied Steps pane, auto-refresh on data changes | ✅ Completed |
 | Day 21 | Lookups + data cleaning combined, Power Query pipeline, work with a real dataset, build a polished output | ✅ Completed |
+| Day 22 | Combo charts for dual-axis data, Sparklines for inline trends, dynamic chart ranges, dashboard layout principles | ✅ Completed |
+| Day 23 | FILTER for live-updating subsets, SORT and SORTBY, UNIQUE for distinct values, spill ranges and # references | ✅ Completed |
+| Day 24 | Merge queries (like SQL JOINs), Append queries (like SQL UNION), custom columns with M, parameters for queries | ✅ Completed |
 | ... | ... | ... |
 | Day 30 | Coming soon | ⏳ |
 
